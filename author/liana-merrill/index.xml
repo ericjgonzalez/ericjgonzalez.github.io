@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liana Merrill | Eric J. Gonzalez</title>
+    <link>/author/liana-merrill/</link>
+      <atom:link href="/author/liana-merrill/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liana Merrill</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Liana Merrill</title>
+      <link>/author/liana-merrill/</link>
+    </image>
+    
+    <item>
+      <title>Receptors, channels, and signalling in the urothelial sensory system in the bladder</title>
+      <link>/publication/journal-article-5/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bladder sensory physiology: neuroactive compounds and receptors, sensory transducers, and target-derived growth factors as targets to improve function</title>
+      <link>/publication/journal-article-3/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

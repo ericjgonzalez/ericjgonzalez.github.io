@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Eric J. Gonzalez</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Underactive Bladder</title>
+      <link>/project/uab/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/project/uab/</guid>
+      <description>&lt;p&gt;Underactive bladder (UAB) and detrusor underactivity (DUA) are understudied health concerns that occur in diverse patient populations and exhibit an age-related increase in prevalence. Current palliative options to manage lower urinary tract symptoms fail to improve quality of life. Therefore, there is a critical need to understand the myogenic and/or neurogenic contributions to incomplete bladder emptying and how these contributions translate into the lower urinary tract symptoms of UAB. Recent studies have characterized a novel model of DUA in rats and demonstrated peripheral nerve stimulation as an option to improve bladder emptying. Additional studies have also demonstrated the contribution of urethral sensory feedback to voiding in asymptomatic adult women.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bladder Pain Syndrome</title>
+      <link>/project/oab/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/project/oab/</guid>
+      <description>&lt;p&gt;Bladder Pain Syndrome (BPS) is a major unresolved health concern with an economic burden approaching $500 million per year in lost productivity and health care costs. Despite advancements in our understanding of the biological mechanisms of these pain syndromes, current pharmaceutical and behavioral therapies are ineffective and fail to completely resolve pathological symptoms. There is, therefore, a critical need to understand mechanistically the neurochemical, functional, and organizational alterations underlying BPS and how this translates into the constellation of clinical symptoms. Past studies have established a causal link between inflammatory mediators and intrinsic signaling mechanisms of the urothelium that may contribute to the altered sensory processing of bladder filling to facilitate bladder dysfunction. These studies have increased our understanding of functional disorders and visceral pain and have the potential to improve the clinical management of inflammation-associated bladder syndromes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
