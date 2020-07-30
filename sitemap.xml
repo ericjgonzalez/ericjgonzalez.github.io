@@ -4,326 +4,322 @@
   
   <url>
     <loc>/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
   </url>
   
   <url>
     <loc>/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
   </url>
   
   <url>
     <loc>/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/bladder/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/uab/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/eric-j.-gonzalez/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/anthony-g.-visco/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/cassandra-k.-kisby/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/cindy-l.-amundsen/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/dana-c.-mckee/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article-10/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article-9/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/warren-m.-grill/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article-8/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article-7/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/oab/</loc>
-    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>/tag/blogdown/</loc>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020/create-website/</loc>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/github/</loc>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/hugo/</loc>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/post/</loc>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/bladder/</loc>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/uab/</loc>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019/writing-technical-content-in-academic/</loc>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019/display-jupyter-notebooks-with-academic/</loc>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/anthony-g.-visco/</loc>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/cassandra-k.-kisby/</loc>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/cindy-l.-amundsen/</loc>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/dana-c.-mckee/</loc>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article-10/</loc>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article-9/</loc>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/warren-m.-grill/</loc>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article-8/</loc>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article-7/</loc>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/oab/</loc>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/academic/</loc>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2016/academic-the-website-builder-for-hugo/</loc>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
   </url>
   
   <url>
     <loc>/category/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
   </url>
   
   <url>
     <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
   </url>
   
   <url>
     <loc>/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
   </url>
   
   <url>
     <loc>/author/beatrice-m.-girard/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
   </url>
   
   <url>
     <loc>/author/liana-merrill/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
   </url>
   
   <url>
     <loc>/author/margaret-a.-vizzard/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
   </url>
   
   <url>
     <loc>/author/mark-t.-nelson/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/journal-article-6/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/journal-article-5/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
   </url>
   
   <url>
     <loc>/author/thomas-j.-heppner/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
   </url>
   
   <url>
     <loc>/author/a.-peterson/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
   </url>
   
   <url>
     <loc>/author/d.-lambert/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
   </url>
   
   <url>
     <loc>/author/e.-j.-gonzalez/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
   </url>
   
   <url>
     <loc>/author/m.-a.-vizzard/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
   </url>
   
   <url>
     <loc>/author/m.-daniel/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
   </url>
   
   <url>
     <loc>/author/m.-kosofsky/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
   </url>
   
   <url>
     <loc>/author/s.-malley/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/journal-article-4/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/journal-article-3/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
   </url>
   
   <url>
     <loc>/author/lauren-arms/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/journal-article-2/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/journal-article-1/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>/courses/</loc>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/eric-j.-gonzalez/</loc>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
   </url>
   
 </urlset>

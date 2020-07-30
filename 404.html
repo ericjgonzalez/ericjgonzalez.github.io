@@ -43,6 +43,9 @@
 
   
   
+  
+  <script src="/js/mathjax-config.js"></script>
+  
 
   
   
@@ -173,9 +176,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -207,6 +210,44 @@
   
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-174031585-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-174031585-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -541,19 +582,19 @@
     
       <li><a href="/talk/example/">Example Talk</a></li>
     
+      <li><a href="/post/2020/create-website/">Creating a Website with Blogdown, Hugo, and Git(hub)</a></li>
+    
       <li><a href="/project/uab/">Underactive Bladder</a></li>
     
-      <li><a href="/post/writing-technical-content/">Writing technical content in Academic</a></li>
+      <li><a href="/post/2019/writing-technical-content-in-academic/">Writing technical content in Academic</a></li>
     
-      <li><a href="/post/jupyter/">Display Jupyter Notebooks with Academic</a></li>
+      <li><a href="/post/2019/display-jupyter-notebooks-with-academic/">Display Jupyter Notebooks with Academic</a></li>
     
       <li><a href="/slides/example/">Slides</a></li>
     
       <li><a href="/publication/journal-article-10/">Randomized controlled trial to assess the impact of high concentration intraurethral lidocaine on urodynamic voiding parameters</a></li>
     
       <li><a href="/publication/journal-article-9/">Randomized controlled trial to assess the impact of intraurethral lidocaine on urodynamic voiding parameters</a></li>
-    
-      <li><a href="/privacy/">Privacy Policy</a></li>
     
   </ul>
   

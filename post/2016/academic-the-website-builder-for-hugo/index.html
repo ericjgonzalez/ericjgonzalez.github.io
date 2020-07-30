@@ -30,7 +30,7 @@
   <meta name="description" content="Create a beautifully simple website in under 10 minutes.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/post/getting-started/">
+  <link rel="alternate" hreflang="en-us" href="/post/2016/academic-the-website-builder-for-hugo/">
 
   
 
@@ -42,6 +42,9 @@
   
 
   
+  
+  
+  <script src="/js/mathjax-config.js"></script>
   
 
   
@@ -173,9 +176,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -209,6 +212,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-174031585-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-174031585-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -221,7 +262,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/post/getting-started/">
+  <link rel="canonical" href="/post/2016/academic-the-website-builder-for-hugo/">
 
   
   
@@ -236,15 +277,15 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Eric J. Gonzalez">
-  <meta property="og:url" content="/post/getting-started/">
+  <meta property="og:url" content="/post/2016/academic-the-website-builder-for-hugo/">
   <meta property="og:title" content="Academic: the website builder for Hugo | Eric J. Gonzalez">
-  <meta property="og:description" content="Create a beautifully simple website in under 10 minutes."><meta property="og:image" content="/post/getting-started/featured.jpg">
-  <meta property="twitter:image" content="/post/getting-started/featured.jpg"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Create a beautifully simple website in under 10 minutes."><meta property="og:image" content="/post/2016/academic-the-website-builder-for-hugo/featured.jpg">
+  <meta property="twitter:image" content="/post/2016/academic-the-website-builder-for-hugo/featured.jpg"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2016-04-20T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2019-04-17T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2020-07-20T16:41:55-04:00">
   
 
   
@@ -268,16 +309,16 @@
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/post/getting-started/"
+    "@id": "/post/2016/academic-the-website-builder-for-hugo/"
   },
   "headline": "Academic: the website builder for Hugo",
   
   "image": [
-    "/post/getting-started/featured.jpg"
+    "/post/2016/academic-the-website-builder-for-hugo/featured.jpg"
   ],
   
   "datePublished": "2016-04-20T00:00:00Z",
-  "dateModified": "2019-04-17T00:00:00Z",
+  "dateModified": "2020-07-20T16:41:55-04:00",
   
   "author": {
     "@type": "Person",
@@ -627,7 +668,7 @@
           Last updated on
       
     
-    2019-04-17
+    2020-07-20
   </span>
   
 
@@ -673,7 +714,7 @@
 
 <div class="article-header container featured-image-wrapper mt-4 mb-4" style="max-width: 1200px; max-height: 675px;">
   <div style="position: relative">
-    <img src="/post/getting-started/featured_hub9ee31969f44a6711206a2baf9f065b4_241861_1200x0_resize_q90_lanczos.jpg" alt="" class="featured-image">
+    <img src="/post/2016/academic-the-website-builder-for-hugo/featured_hub9ee31969f44a6711206a2baf9f065b4_241861_1200x0_resize_q90_lanczos.jpg" alt="" class="featured-image">
     <span class="article-header-caption">Image credit: <a href="https://unsplash.com/photos/CpkOjOcXdUY"><strong>Unsplash</strong></a></span>
   </div>
 </div>
@@ -850,7 +891,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/post/getting-started/&amp;text=Academic:%20the%20website%20builder%20for%20Hugo" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/post/2016/academic-the-website-builder-for-hugo/&amp;text=Academic:%20the%20website%20builder%20for%20Hugo" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -863,7 +904,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/post/getting-started/&amp;t=Academic:%20the%20website%20builder%20for%20Hugo" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/post/2016/academic-the-website-builder-for-hugo/&amp;t=Academic:%20the%20website%20builder%20for%20Hugo" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -876,7 +917,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Academic:%20the%20website%20builder%20for%20Hugo&amp;body=/post/getting-started/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Academic:%20the%20website%20builder%20for%20Hugo&amp;body=/post/2016/academic-the-website-builder-for-hugo/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -889,7 +930,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/post/getting-started/&amp;title=Academic:%20the%20website%20builder%20for%20Hugo" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/post/2016/academic-the-website-builder-for-hugo/&amp;title=Academic:%20the%20website%20builder%20for%20Hugo" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -902,7 +943,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Academic:%20the%20website%20builder%20for%20Hugo%20/post/getting-started/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Academic:%20the%20website%20builder%20for%20Hugo%20/post/2016/academic-the-website-builder-for-hugo/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -915,7 +956,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/post/getting-started/&amp;title=Academic:%20the%20website%20builder%20for%20Hugo" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/post/2016/academic-the-website-builder-for-hugo/&amp;title=Academic:%20the%20website%20builder%20for%20Hugo" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>

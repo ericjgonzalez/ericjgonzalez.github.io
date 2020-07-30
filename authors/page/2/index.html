@@ -43,6 +43,9 @@
 
   
   
+  
+  <script src="/js/mathjax-config.js"></script>
+  
 
   
   
@@ -173,9 +176,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -207,6 +210,44 @@
   
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-174031585-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-174031585-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -244,7 +285,7 @@
   <meta property="og:description" content="Research Scientist"><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2019-02-05T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-07-21T00:00:00&#43;00:00">
   
 
   
@@ -555,9 +596,6 @@
     
     
       
-      <li><a href="/author/mark-t.-nelson/">Mark T. Nelson</a></li>
-    
-      
       <li><a href="/author/thomas-j.-heppner/">Thomas J. Heppner</a></li>
     
       
@@ -584,6 +622,9 @@
       
       <li><a href="/author/lauren-arms/">Lauren Arms</a></li>
     
+      
+      <li><a href="/author/eric-j.-gonzalez/">Eric J. Gonzalez</a></li>
+    
   </ul>
 
   
@@ -592,8 +633,6 @@
     
     <li class="page-item"><a class="page-link" href="/authors/">&laquo;</a></li>
     
-    
-    <li class="page-item"><a class="page-link" href="/authors/page/3/">&raquo;</a></li>
     
   </ul>
 </nav>

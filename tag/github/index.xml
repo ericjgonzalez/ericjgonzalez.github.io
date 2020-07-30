@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>github | Eric J. Gonzalez</title>
+    <link>/tag/github/</link>
+      <atom:link href="/tag/github/index.xml" rel="self" type="application/rss+xml" />
+    <description>github</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>github</title>
+      <link>/tag/github/</link>
+    </image>
+    
+    <item>
+      <title>Creating a Website with Blogdown, Hugo, and Git(hub)</title>
+      <link>/post/2020/create-website/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020/create-website/</guid>
+      <description>
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#introduction&#34;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#getting-started&#34;&gt;Getting Started&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#github&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#rstudio&#34;&gt;RStudio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#git&#34;&gt;Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#build-website&#34;&gt;Build Website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#edit-content&#34;&gt;Edit Content&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#view-website&#34;&gt;View Website&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div id=&#34;introduction&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This post is my documentation for setting up a website using the R package &lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;Blogdown&lt;/a&gt;, the static site generator &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, and &lt;a href=&#34;https://git-scm.com/&#34;&gt;Git&lt;/a&gt; version control. The following instructions were sourced from the &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;Blogdown book&lt;/a&gt; and the &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;Hugo quick start guide&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;getting-started&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Getting Started&lt;/h2&gt;
+&lt;div id=&#34;github&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;GitHub&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Create two new Github repositories for a &lt;a href=&#34;https://docs.github.com/en/github/working-with-github-pages/about-github-pages&#34;&gt;User Pages&lt;/a&gt; site.
+&lt;ul&gt;
+&lt;li&gt;The first repository will contain the project directory for the website.&lt;/li&gt;
+&lt;li&gt;The second repository will contain the publishing source files and will be named &lt;code&gt;&amp;lt;user&amp;gt;.github.io&lt;/code&gt;. Replace &lt;code&gt;&amp;lt;user&amp;gt;&lt;/code&gt; with your user account name.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Identify a &lt;a href=&#34;https://themes.gohugo.io/&#34;&gt;Hugo theme&lt;/a&gt; and fork the chosen theme’s GitHub repository.
+&lt;ul&gt;
+&lt;li&gt;For example, this website is powered by &lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34;&gt;Hugo-Academic&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;rstudio&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;RStudio&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a new project in &lt;a href=&#34;https://rstudio.com/&#34;&gt;RStudio&lt;/a&gt;.
+&lt;ul&gt;
+&lt;li&gt;Select Website using blogdown.
+&lt;img src=&#34;rproj1.png&#34; width=&#34;50%&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Directory name will be identical to the first GitHub repository.&lt;/li&gt;
+&lt;li&gt;Hugo theme will be &lt;code&gt;gcushen/hugo-academic&lt;/code&gt;.
+&lt;img src=&#34;rproj2.png&#34; width=&#34;50%&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Enable package management for your project with &lt;code&gt;renv&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# install.packages(&amp;quot;renv&amp;quot;)
+renv::init()
+renv::install(&amp;quot;blogdown&amp;quot;)
+blogdown::install_hugo()&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a &lt;code&gt;.gitignore&lt;/code&gt; file.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;file.create(&amp;quot;.gitignore&amp;quot;)
+file &amp;lt;- file(&amp;quot;.gitignore&amp;quot;)
+# add content to file
+writeLines(c(&amp;quot;.Rproj.user&amp;quot;, &amp;quot;.Rhistory&amp;quot;, &amp;quot;.RData&amp;quot;, &amp;quot;.Ruserdata&amp;quot;, &amp;quot;/public&amp;quot;),
+           file)
+close(file)&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Delete &lt;code&gt;themes/hugo-academic&lt;/code&gt; to add your forked GitHub theme.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# in terminal
+git rm themes/hugo-academic&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;git&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Git&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Create new Git repository.
+&lt;ul&gt;
+&lt;li&gt;Initialize repository for your &lt;code&gt;.Rproj&lt;/code&gt; directory.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# in terminal
+cd /d &amp;#39;path-to-Rproj-directory&amp;#39;
+git init
+git add .
+git commit -m &amp;quot;initial commit&amp;quot;
+git remote add origin &amp;#39;path-to-GitHub-project-repo&amp;#39;
+git push origin master&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Add Hugo theme as Git submodule.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# in terminal
+git submodule add &amp;#39;path-to-forked-GitHub-theme-repo&amp;#39; themes/hugo-academic
+git push origin master&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34;&gt;Update&lt;/a&gt; theme submodule when necessary.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# in terminal
+cd /d &amp;#39;path-to-Rproj-directory&amp;#39;
+# determine current theme version
+&amp;quot;themes/hugo-academic/data/academic.toml&amp;quot;
+# update the theme submodule
+git submodule update --remote --merge
+cd themes/hugo-academic
+# you need to consecutively apply any breaking changes from each release
+# version upgrading to = vX.X.X
+git checkout &amp;lt;VERSION&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;build-website&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Build Website&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Create new website
+&lt;ul&gt;
+&lt;li&gt;Serve website in RStudio.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# creates /public directory
+blogdown::serve_site()&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Edit &lt;code&gt;config.toml&lt;/code&gt; baseurl with &lt;code&gt;&#34;https://&amp;lt;user&amp;gt;.github.io/&#34;&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Add &lt;code&gt;.nojekyll&lt;/code&gt; file to &lt;code&gt;/public&lt;/code&gt; directory.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# in terminal
+cd /d &amp;#39;path-to-public-directory&amp;#39;
+touch .nojekyll&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Initialize Git repository for your &lt;code&gt;/public&lt;/code&gt; directory.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# in terminal
+cd /d &amp;#39;path-to-public-directory&amp;#39;
+git init
+git add .
+git commit -m &amp;quot;initial commit&amp;quot;
+git remote add origin &amp;#39;path-to-user.github.io-repo&amp;#39;
+git push origin master&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;edit-content&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Edit Content&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div id=&#34;view-website&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;View Website&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Visit your website using &lt;code&gt;https://&amp;lt;user&amp;gt;.github.io/&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
