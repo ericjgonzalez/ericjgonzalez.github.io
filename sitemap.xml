@@ -3,312 +3,292 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>https://ericjgonzalez.github.io/courses/example/example1/</loc>
     <lastmod>2020-07-20T16:41:55-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/</loc>
+    <loc>https://ericjgonzalez.github.io/courses/example/</loc>
     <lastmod>2020-07-20T16:41:55-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/example2/</loc>
+    <loc>https://ericjgonzalez.github.io/courses/example/example2/</loc>
     <lastmod>2020-07-20T16:41:55-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
+    <loc>https://ericjgonzalez.github.io/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/example/</loc>
+    <loc>https://ericjgonzalez.github.io/talk/example/</loc>
     <lastmod>2020-07-20T16:41:55-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
+    <loc>https://ericjgonzalez.github.io/publication-type/2/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/blogdown/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
+    <loc>https://ericjgonzalez.github.io/authors/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
+    <loc>https://ericjgonzalez.github.io/publication/journal-article-11/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2020/create-website/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
+    <loc>https://ericjgonzalez.github.io/author/johanna-l.-hannan/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/github/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
+    <loc>https://ericjgonzalez.github.io/author/michael-r.-odom/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/hugo/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
+    <loc>https://ericjgonzalez.github.io/publication_types/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/post/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
+    <loc>https://ericjgonzalez.github.io/author/warren-m.-grill/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
+    <loc>https://ericjgonzalez.github.io/tag/bladder/</loc>
+    <lastmod>2020-08-11T17:45:35-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/bladder/</loc>
+    <loc>https://ericjgonzalez.github.io/project/</loc>
+    <lastmod>2020-08-11T17:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/tags/</loc>
+    <lastmod>2020-08-11T17:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/project/uab/</loc>
     <lastmod>2020-07-20T18:07:10-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>https://ericjgonzalez.github.io/post/2019/writing-technical-content-in-academic/</loc>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/post/2019/display-jupyter-notebooks-with-academic/</loc>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/slides/</loc>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/slides/example/</loc>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/author/anthony-g.-visco/</loc>
+    <lastmod>2020-08-11T17:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/author/cassandra-k.-kisby/</loc>
+    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/author/cindy-l.-amundsen/</loc>
+    <lastmod>2020-08-11T17:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/author/dana-c.-mckee/</loc>
+    <lastmod>2020-08-11T17:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/publication/journal-article-10/</loc>
+    <lastmod>2020-08-11T17:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/publication/journal-article-9/</loc>
+    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/publication/journal-article-8/</loc>
+    <lastmod>2020-08-11T17:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/publication/journal-article-7/</loc>
+    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/project/bps/</loc>
+    <lastmod>2020-08-11T17:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/tag/academic/</loc>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/post/2016/academic-the-website-builder-for-hugo/</loc>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/categories/</loc>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/category/demo/</loc>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/author/beatrice-m.-girard/</loc>
+    <lastmod>2020-08-11T17:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/author/liana-merrill/</loc>
+    <lastmod>2020-08-11T17:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/author/margaret-a.-vizzard/</loc>
+    <lastmod>2020-08-11T17:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/author/mark-t.-nelson/</loc>
+    <lastmod>2020-08-11T17:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/publication/journal-article-6/</loc>
+    <lastmod>2020-08-11T17:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/publication/journal-article-5/</loc>
+    <lastmod>2020-08-11T17:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/author/thomas-j.-heppner/</loc>
+    <lastmod>2020-08-11T17:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/author/abbey-peterson/</loc>
+    <lastmod>2020-08-11T17:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/author/daniel-lambert/</loc>
+    <lastmod>2020-08-11T17:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/author/michael-kosofsky/</loc>
+    <lastmod>2020-08-11T17:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/author/mitchel-daniel/</loc>
+    <lastmod>2020-08-11T17:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/author/susan-malley/</loc>
+    <lastmod>2020-08-11T17:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/publication/journal-article-4/</loc>
+    <lastmod>2020-08-11T17:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/publication/journal-article-3/</loc>
+    <lastmod>2020-08-11T17:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/author/lauren-arms/</loc>
+    <lastmod>2020-08-11T17:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/publication/journal-article-2/</loc>
+    <lastmod>2020-08-11T17:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/publication/journal-article-1/</loc>
+    <lastmod>2020-08-11T17:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/courses/</loc>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/author/eric-j.-gonzalez/</loc>
     <lastmod>2020-07-20T18:07:10-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/uab/</loc>
+    <loc>https://ericjgonzalez.github.io/post/</loc>
+    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericjgonzalez.github.io/publication/</loc>
     <lastmod>2020-07-20T18:07:10-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2019/writing-technical-content-in-academic/</loc>
-    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2019/display-jupyter-notebooks-with-academic/</loc>
-    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/</loc>
-    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/example/</loc>
-    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/anthony-g.-visco/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/cassandra-k.-kisby/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/cindy-l.-amundsen/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/dana-c.-mckee/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article-10/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article-9/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/warren-m.-grill/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
-    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article-8/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article-7/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/bps/</loc>
-    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/academic/</loc>
-    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2016/academic-the-website-builder-for-hugo/</loc>
-    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/demo/</loc>
-    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/beatrice-m.-girard/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/liana-merrill/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/margaret-a.-vizzard/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/mark-t.-nelson/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article-6/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article-5/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/thomas-j.-heppner/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/abbey-peterson/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/daniel-lambert/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/michael-kosofsky/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/mitchel-daniel/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/susan-malley/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article-4/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article-3/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/lauren-arms/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article-2/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article-1/</loc>
-    <lastmod>2020-08-11T17:30:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
-    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/eric-j.-gonzalez/</loc>
-    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-07-20T16:41:55-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-07-20T18:07:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
+    <loc>https://ericjgonzalez.github.io/talk/</loc>
     <lastmod>2020-07-20T16:41:55-04:00</lastmod>
   </url>
   
